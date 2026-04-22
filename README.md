@@ -43,13 +43,20 @@ exoplanet-habitability-system/
 
 ---
 
-## 🚀 Установка и запуск
+## 🚀 Установка
 
-### 1. Клонирование проекта
+### Вариант 1 (через Git)
 
 [git clone](https://github.com/urrqwee/exoplanet-habitability-system.git)
-
 cd exoplanet-habitability-system
+
+---
+
+### Вариант 2 (скачать архив)
+
+[Скачать проект](https://github.com/urrqwee/exoplanet-habitability-system/archive/refs/heads/main.zip)
+
+Распаковать архив и открыть папку проекта
 
 ### 2. Создание виртуального окружения
 
