@@ -47,7 +47,8 @@ exoplanet-habitability-system/
 
 ### 1. Клонирование проекта
 
-git clone <ссылка на репозиторий> !!!
+[git clone](https://github.com/urrqwee/exoplanet-habitability-system.git)
+
 cd exoplanet-habitability-system
 
 ### 2. Создание виртуального окружения
