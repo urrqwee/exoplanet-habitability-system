@@ -21,15 +21,24 @@
 ## 📁 Структура проекта
 
 exoplanet-habitability-system/
+
 │
+
 ├── data/ # Датасет
+
 ├── model/ # Сохранённая модель
+
 ├── src/ # Основная логика
+
 │ └── model.py
+
 │
 ├── train.py # Обучение модели
+
 ├── main.py # Запуск системы
+
 ├── requirements.txt # Зависимости
+
 └── README.md
 
 ---
