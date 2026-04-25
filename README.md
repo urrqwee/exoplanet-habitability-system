@@ -33,6 +33,7 @@ exoplanet-habitability-system/
 │ └── model.py
 
 │
+
 ├── train.py # Обучение модели
 
 ├── main.py # Запуск системы
